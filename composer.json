@@ -1,0 +1,14 @@
+{
+    "name": "vancens002/php_email",
+    "description": "php email send class",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vancens002",
+            "email": "t002@vancens.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
