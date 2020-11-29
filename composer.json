@@ -1,11 +1,11 @@
 {
-    "name": "vancens002/php_email",
+    "name": "vancens-com/php_email",
     "description": "php email send class",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "vancens002",
+            "name": "vancens-com",
             "email": "t002@vancens.com"
         }
     ],
